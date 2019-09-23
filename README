@@ -1,1 +1,3 @@
-My project
+A bank management system coded using c++ for object oriented programming course
+This bank management system has no interface, uses command line to take input/output. It can create accounts for manager,administration or user.
+Using used account money transection can be made. File system was used to save data. 
